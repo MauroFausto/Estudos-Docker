@@ -1,0 +1,16 @@
+{
+    "Command": "\"/hello\"",
+    "CreatedAt": "2023-11-25 22:34:55 -0300 -03",
+    "ID": "d880db6051c2",
+    "Image": "hello-world",
+    "Labels": "desktop.docker.io/wsl-distro=Debian",
+    "LocalVolumes": "0",
+    "Mounts": "",
+    "Names": "jolly_buck",
+    "Networks": "bridge",
+    "Ports": "",
+    "RunningFor": "21 minutes ago",
+    "Size": "0B (virtual 13.3kB)",
+    "State": "exited",
+    "Status": "Exited (0) 21 minutes ago"
+}
